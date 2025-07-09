@@ -18,7 +18,8 @@
 - 주요 활동:
   - 2025년 4~5월: [SKT BPFDoor 해킹 사건 분석](https://www.notion.so/SKT-BPFDoor-200beddc7879803c87aee1a2cc477607?pvs=21)
   - [Shell 스터디](https://www.notion.so/shell-study-204beddc787980668cbee44b23670f18?pvs=21)
-- 관심 분야: Forensics 실습 · 사고 분석 · 리버싱 · CTF 포렌식
+  - [Shell 프로젝트] 2025.07.16 ~ 2025.10.20 예정
+- 관심 분야: Forensics 실습 · CTF 포렌식
 
 ---
 
