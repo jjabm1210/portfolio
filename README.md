@@ -49,14 +49,6 @@
 
 ---
 
-## 🔗 주요 레포지토리
-
-- [ctf-writeups](https://github.com/jjabm1210/ctf-writeups) – CTF 문제풀이  
-- [forensic-labs](https://github.com/jjabm1210/forensic-labs) – 디지털 포렌식 실습 기록  
-- [stego-tools-test](https://github.com/jjabm1210/stego-tools-test) – 스테가노그래피 도구 테스트
-
----
-
 ## 📫 연락처
 
 - **이메일**: 9unvv00@gmail.com  
